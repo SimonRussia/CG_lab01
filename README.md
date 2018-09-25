@@ -1,9 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
-
-
-[![LT](https://img.shields.io/badge/lab01-Просмотреть%20файл-brightgreen.svg)](https://cdn.rawgit.com/SimonRussia/CG_lab01/05736cab/lab_01.html)
-
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE) [![HTML](https://img.shields.io/badge/HTML-Просмотреть%20файл-brightgreen.svg)](https://cdn.rawgit.com/SimonRussia/CG_lab01/05736cab/lab_01.html)
 
 ## Компьютерная графика
 
@@ -13,6 +8,5 @@
 - [X] 3. Использовать метод **setInterval** для создания анимации
 
 
-Просмотреть файл >> https://cdn.rawgit.com/SimonRussia/CG_lab01/05736cab/lab_01.html
-
-[Просмотреть файл](https://cdn.rawgit.com/SimonRussia/CG_lab01/05736cab/lab_01.html)
+## Ссылки
+- [Просмотреть файл](https://cdn.rawgit.com/SimonRussia/CG_lab01/05736cab/lab_01.html)
