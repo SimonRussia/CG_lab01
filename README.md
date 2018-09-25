@@ -4,6 +4,8 @@
 
 ### Лабораторная работа №1
 
+С помощью функции **setInterval** и функции отображения пикселей **fillRect** создать анимированное изображение в рамках тэга <**canvas**>.
+
 [<img src="images/screenshot.jpg" width="600" height="whatever">](https://cdn.rawgit.com/SimonRussia/CG_lab01/05736cab/lab_01.html)
 
 ## Задание
