@@ -1,6 +1,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
-[![Play](https://img.shields.io/badge/lab01-Просмотреть%20файл-brightgreen.svg](https://cdn.rawgit.com/SimonRussia/CG_lab01/05736cab/lab_01.html)
+[![LT](https://img.shields.io/badge/lab01-Просмотреть%20файл-brightgreen.svg)](https://cdn.rawgit.com/SimonRussia/CG_lab01/05736cab/lab_01.html)
+
+[! [ggg](https://img.shields.io/badge/lab01-Просмотреть%20файл-brightgreen.svg](https://cdn.rawgit.com/SimonRussia/CG_lab01/05736cab/lab_01.html)
+
+
 
 ## Компьютерная графика
 
