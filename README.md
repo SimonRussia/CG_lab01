@@ -2,7 +2,7 @@
 
 ## Компьютерная графика
 
-<img src="images/screenshot.jpg" width="300" height="whatever">
+<img src="images/screenshot.jpg" width="500" height="whatever">
 
 ## Задание
 - [X] 1. Воспользоваться тэгом <**canvas**> для создания 2d-графики
